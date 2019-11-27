@@ -7,7 +7,6 @@ class App extends React.Component {
     return (
       <div>
         <Hello name="Paco"></Hello>
-        <Hello name="Dimp"></Hello>
       </div>
     );
   }
